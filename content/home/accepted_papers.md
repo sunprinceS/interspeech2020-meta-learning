@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active =  true # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = ""
+title = "Accepted Papers"
 subtitle = "weight 70"
 
 [design]
@@ -42,8 +42,6 @@ subtitle = "weight 70"
  # CSS class.
  css_class = ""
 +++
-
-## Accepted Papers
 
 TBD // just one placeholder
 * [Meta-Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D18-1398/) *Jiatao Gu, Yong Wang, Yun Chen, Victor O. K. Li, Kyunghyun Cho*

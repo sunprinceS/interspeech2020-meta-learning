@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active =  true # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = ""
+title = "Reading"
 subtitle = "weight 25"
 
 [design]
@@ -49,8 +49,6 @@ subtitle = "weight 25"
  # CSS class.
  css_class = ""
 +++
-
-## Reading
 
 Meta learning is one of the fastest growing research areas in the deep learning scope. However there is no standard definition for meta learning. Usually the main goal is to design models that can learn new tasks rapidly with few in domain training examples, by having models to pre-learn from many, relevant or not, training tasks in a way that the models are easy to be generalized to new tasks. For better understanding the scope of meta learning, we provide several online courses and papers describing the works falling into the area. These works are just for showcasing, and we definitely encourage people with research not covered here but sharing the same goal mentioned above to submit.
 

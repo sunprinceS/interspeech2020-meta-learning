@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active =  true # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = ""
+title = "Call for Papers"
 subtitle = ""
 
 [design]
@@ -52,7 +52,6 @@ subtitle = ""
 
 weight: 15
 
-## Call for Papers
 
 The special session of Meta Learning for Human Language Technology invites papers of a theoretical and experimental nature on human language technology tasks with meta learning methodologies and their applications. The special session is part of the main INTERSPEECH conference in Shanghai, China. Relevant meta learning topics include (but are not limited to):
 
