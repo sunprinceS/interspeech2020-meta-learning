@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = ""
+subtitle = "weight 30"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -28,23 +28,20 @@ time_format = "15:04"
   time_start =  "2020-06-09T13:00:00Z"
   time_end =  "2020-06-09T15:00:00Z"
   description = """
-  TBD
-
-  * MAML
-  * Reptile
+  some descirption of the schedule
   """
 [[item]]
   speaker = "Hung-Yi Lee"
   speaker_url = "https://www.coursera.org"
   organization = "National Taiwan University"
-  title = "Speaker Verification"
+  title = "Metric-based Meta Learning in Speaker Verification"
   url = ""
   time_start =  "2020-06-09T09:00:00Z"
   time_end =  "2020-06-09T12:00:00Z"
   description = """
   TBD
 
-  * MAML
-  * Reptile
+  * Matching Network
+  * Prototypical Network
   """
 +++

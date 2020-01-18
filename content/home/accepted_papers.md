@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active =  true # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Sponsors"
-subtitle = "weight 80"
+title = ""
+subtitle = "weight 70"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -43,4 +43,9 @@ subtitle = "weight 80"
  css_class = ""
 +++
 
-We are grateful for the support of our sponsors, which enabled us to offer travel grants to several participants.
+## Accepted Papers
+
+TBD // just one placeholder
+* [Meta-Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D18-1398/) *Jiatao Gu, Yong Wang, Yun Chen, Victor O. K. Li, Kyunghyun Cho*
+
+

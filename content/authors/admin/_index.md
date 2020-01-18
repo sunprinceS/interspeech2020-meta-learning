@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jui-Yang Hsu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Speech Processing Lab
+- name: NTU EECS
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Part-time researcher, Full-time human-being
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Meta/ Transfer Learning
+- Speech Processing
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSE in Computer Science
+    institution: National Taiwan University
+    year: 2018 - Present
+  - course: BSE in Electrical Engineering
+    institution: National Taiwan University
+    year: 2013 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +41,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:sunprince12014@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sunprinceS
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tony-hsu/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@sunprince12014
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=dqo1i2YAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sunprinceS_0822
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#  icon_pack: ai
+#  link: files/2019_20_JYH_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,10 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a 2nd year Master student in Speech Processing & Machine Learning Laboratory
+at NTU EECS, supervised by Prof. [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
