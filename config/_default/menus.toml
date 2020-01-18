@@ -25,7 +25,8 @@
 
 [[main]]
   name = "Organizers"
-  url = "#organizer"
+  url = "#people"
+  #url = "#organizer"
   weight = 50
 
 [[main]]
