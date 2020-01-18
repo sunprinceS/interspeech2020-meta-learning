@@ -43,4 +43,19 @@ subtitle = "weight 50"
  css_class = ""
 +++
 
-* [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+| | |
+| ------------------| ------------------------------ |
+| [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) (*National Taiwan University*)            |     {{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}        |
+|  [Shang-Wen Li]()(*Amazon AWS AI*)           |     {{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}        |
+|  [Yu Zhang]()(*Google Brain*)           |     {{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}        |
+|  [Ngoc Thang Vu]()(*University of Stuttgart*)           |     {{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}        |
+
+* [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) (*National Taiwan
+  University*)
+{{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}
+* [Shang-Wen Li]()(*Amazon AWS AI*)
+{{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}
+* [Yu Zhang]()(*Google Brain*)
+{{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}
+* [Ngoc Thang Vu]()(*University of Stuttgart*)
+{{< figure library="true" src="avatar-smaller.jpg" title="" lightbox="true" >}}
