@@ -28,7 +28,7 @@ bio: Hung-yi Lee received the M.S. and Ph.D. degrees from National Taiwan Univer
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sunprince12014@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hungyilee@ntu.edu.tw'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

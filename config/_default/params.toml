@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Interspeech 2020"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Interspeech 2020 Special Session: Meta Learning for Human Language Technology"
