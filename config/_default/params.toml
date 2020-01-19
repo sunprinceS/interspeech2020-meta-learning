@@ -81,16 +81,18 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sunprince12014@gmail.com"
+email = "2020.meta.learning@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "No. 1, Sec. 4, Roosevelt Rd., Da’an Dist.", city = "Taipei City", region = "", postcode = "106", country = "Taiwan", country_code = "TW"}
+#address = {street = "No. 1, Sec. 4, Roosevelt Rd., Da’an Dist.", city = "Taipei City", region = "", postcode = "106", country = "Taiwan", country_code = "TW"}
+address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "25.0173", longitude = "121.5398"}
+#coordinates = {latitude = "25.0173", longitude = "121.5398"}
+coordinates = {}
 
 # Directions for visitors to locate you.
 # directions = ""

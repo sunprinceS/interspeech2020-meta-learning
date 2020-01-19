@@ -9,7 +9,7 @@ active =  false # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Organizers"
-subtitle = "weight 50"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

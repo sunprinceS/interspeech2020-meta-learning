@@ -9,7 +9,7 @@ active =  true # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Accepted Papers"
-subtitle = "weight 70"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -43,7 +43,6 @@ subtitle = "weight 70"
  css_class = ""
 +++
 
-TBD // just one placeholder
-* [Meta-Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D18-1398/) *Jiatao Gu, Yong Wang, Yun Chen, Victor O. K. Li, Kyunghyun Cho*
+TBD
 
 
