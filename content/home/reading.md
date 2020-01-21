@@ -9,7 +9,7 @@ active =  true # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Reading"
-subtitle = "weight 25"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,10 +52,11 @@ subtitle = "weight 25"
 
 Meta learning is one of the fastest growing research areas in the deep learning scope. However there is no standard definition for meta learning. Usually the main goal is to design models that can learn new tasks rapidly with few in domain training examples, by having models to pre-learn from many, relevant or not, training tasks in a way that the models are easy to be generalized to new tasks. For better understanding the scope of meta learning, we provide several online courses and papers describing the works falling into the area. These works are just for showcasing, and we definitely encourage people with research not covered here but sharing the same goal mentioned above to submit.
 
+
 #### Online Courses
 
 * [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
-* [Hung-Yi Lee's ML course](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+* [Hung-Yi Lee's Meta Learning](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 
 
 #### Papers

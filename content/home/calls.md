@@ -50,16 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-weight: 15
-
+<!--weight: 15-->
 
 The special session of Meta Learning for Human Language Technology invites papers of a theoretical and experimental nature on human language technology tasks with meta learning methodologies and their applications. The special session is part of the main INTERSPEECH conference in Shanghai, China. Relevant meta learning topics include (but are not limited to):
 
 * Network architecture search
-* Learning optimizer from multiple sub-tasks as training data samples
-* Learning model initialization from multiple sub-tasks as training data samples
-* Learning metrics, similarities, or distances from multiple sub-tasks as training data samples
-* Few shot or zero shot learning
+* Learning optimizer
+* Learning model initialization
+* Learning metrics or distance measurement
+* Learning training algorithm
+* Few shot learning
 
 Human language technology topics include (but are not limited to):
 
@@ -86,12 +86,13 @@ Human language technology topics include (but are not limited to):
 #### Submissions
 
 This special session is part of the main INTERSPEECH conference. Thus it utilizes the same submission portal, and follows the same submission policy, paper format, and review process. More information can be found:
-Submission portal: TBD
-Submission policy: TBD
-Paper format: TBD
-Author ethics: TBD
+
+* Submission portal: TBD
+* Submission policy: TBD
+* Paper format: TBD
+* Author ethics: TBD
 
 Following the same policy as INTERSPEECH main conference, double-submissions is not allowed if the entire works have been published in other peer-reviewed conferences or transaction. However, we invite authors to submit their work to multiple sessions in addition to this session in the submission portal. Conference and session committee will determine session assignment after acceptance.
 
-If you have more questions about submission, please feel free to contact us [tbd@tbd.tbd].
+If you have more questions about submission, please feel free to contact us via [2020.meta.learning@gmail.com](mailto:2020.meta.learning@gmail.com).
 
