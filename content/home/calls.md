@@ -94,5 +94,5 @@ This special session is part of the main INTERSPEECH conference. Thus it utilize
 
 Following the same policy as INTERSPEECH main conference, double-submissions is not allowed if the entire works have been published in other peer-reviewed conferences or transaction. However, we invite authors to submit their work to multiple sessions in addition to this session in the submission portal. Conference and session committee will determine session assignment after acceptance.
 
-If you have more questions about submission, please feel free to contact us via [2020.meta.learning@gmail.com](mailto:2020.meta.learning@gmail.com).
+If you have more questions about submission, please feel free to contact us via [is.2020.meta.learning@gmail.com](mailto:is.2020.meta.learning@gmail.com).
 
