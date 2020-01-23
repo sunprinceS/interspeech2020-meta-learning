@@ -59,7 +59,7 @@ Deep learning based human language technology (HLT), such as automatic speech re
 
 Meta learning, or Learning to Learn, is one way to mitigate the above problems. Meta learning learns better learning algorithms, including better parameter initialization, optimization strategy, network architecture, distance metrics, etc., from multiple learning tasks. Meta learning has been showed the potential to allow faster fine-tuning, converge to better performance than model pretraining, and even achieve few-shot learning in several areas, including computer vision and translation.
 
-The goal of this special session is to bring together researchers and practitioners working on meta learning in different HLT fields to discuss the state-of-the-art and new approaches, and to share their innovation, insights, and challenges, and to shed the light on future research directions. We will explore how to improve learning efficiency in data usage and in computation with meta learning for HLT tasks. We also aim to align academic efforts with industrial challenges, to bridge the gap between research and real-world product deployment.
+The goal of this special session is to bring together researchers and practitioners working on meta learning in different HLT fields to discuss the state-of-the-art and new approaches, and to share their innovation, insights, and challenges, and to shed light on future research directions. We will explore how to improve learning efficiency in data usage and in computation with meta learning for HLT tasks. We also aim to align academic efforts with industrial challenges, to bridge the gap between research and real-world product deployment.
 
 
 <!--{{% alert note %}}-->

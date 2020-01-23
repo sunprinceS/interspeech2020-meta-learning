@@ -56,7 +56,7 @@ Meta learning is one of the fastest growing research areas in the deep learning 
 #### Online Courses
 
 * [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
-* [Hung-Yi Lee's Meta Learning](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+* [Hung-Yi Lee's Lecture](https://youtu.be/wurPYalweeo) (in Mandarin)
 
 
 #### Papers
