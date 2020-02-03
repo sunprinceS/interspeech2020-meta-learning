@@ -83,7 +83,7 @@ Meta learning is one of the fastest growing research areas in the deep learning 
     * Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le, Alex Kurakin, Large-Scale Evolution of Image Classifiers, ICML 2017 
     * Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le, Regularized Evolution for Image Classifier Architecture Search, AAAI, 2019
     * Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuoglu, Hierarchical Representations for Efficient Architecture Search, ICLR, 2018
-    Supernetwork based 
+  * Supernetwork based 
     * Hanxiao Liu, Karen Simonyan, Yiming Yang, DARTS: Differentiable Architecture Search, ICLR, 2019
 
 #### Applications to Human Language Technology: 
