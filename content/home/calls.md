@@ -77,8 +77,8 @@ Human language technology topics include (but are not limited to):
 **Important Dates**
 
 * Submission portal opens: February 15, 2020
-* Paper Submission: March 30, 2020
-* Notification of Acceptance: June 19, 2020
+* Paper Submission: May 8, 2020
+* Notification of Acceptance: July 24, 2020
 * Camera-ready Paper Due: TBD
 * Special Session Date: TBD
 {{% /alert %}}
